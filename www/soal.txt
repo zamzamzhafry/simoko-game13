@@ -1,0 +1,6 @@
+1. pernyataannya arah semprotan udara/air gun untuk membersihkan filter udara seperti gambar dimulai dari bagian luar dulu baru dari bagian dalam;2;|
+2. pernyataan arah semprotan udara/cleaner untuk membersihkan filter bahan bakar seperti gambar dimulai dari saluran yang menuju ke pompa bensin dulu baru dari bagian arah tangki bensin;1;|
+3. Pernyataan Penyetelan pelampung dengan jarak h terlalu besar menyebabkan bahan bakar cair keluar dengan sendirinya dari main nozzle (banjir diruang pelampung);1;|
+4. Pernyataan Slow jet tersumbat menyebabkan putaran mesin pincang pada kecepatan tinggi;2;|
+5. Pernyataan Jika Spring B terlalu keras sekali menyebabkan supplay bahan bakar dari power jet sedikit bahkan tidak keluar;1;|
+6. Pernyataan Putaran mesin melemah disebabkan karena jumlah bahan bakar yang masuk ke dalam lubang venturi karburator terlalu sedikit dan menyebabkan suplay udara menjadi lebih banyak (campuran kurus);1;|

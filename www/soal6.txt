@@ -1,0 +1,10 @@
+1. Gambar Pompa bahan bakar elektrik;5;|
+2. Gambar Pompa bahan bakar mekanik;2;|
+3. Gambar Tangki bahan bakar;3;|
+4. Gambar Filter bahan bakar; 1;|
+5. Gambar Filter udara;4;|
+6. Gambar Primary and secondary main jet;2;|
+7. Gambar main nozzle;5;|
+8. gambar pelampung;1;|
+9. gambar solenoid valve;3;|
+10. gambar power piston;4;|
